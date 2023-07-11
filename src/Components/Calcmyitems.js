@@ -1,4 +1,7 @@
 import React from 'react';
+// eslint-disable-next-line max-len
+//* Dear Code viewer : npm i -S prop-types as recommand for this task but it still give me up an errors that's why put it off
+//
 // eslint-disable-next-line import/no-extraneous-dependencies
 import PropTypes from 'prop-types';
 
