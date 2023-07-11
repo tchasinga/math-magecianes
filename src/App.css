@@ -6,3 +6,38 @@
  padding: 0px 10%;
 }
 
+.input-btn {
+  border: 1px solid #b0afaf;
+  background-color: whitesmoke;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.signs {
+  background-color: #ff791f;
+}
+
+.zero {
+  grid-column: 1/3;
+}
+
+.calcContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  text-align: center;
+  height: 70vh;
+}
+
+.disPlayresult {
+  grid-column: 1/5;
+  background-color: #b0afaf;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0.3rem;
+  color: white;
+  font-size: 25px;
+}
