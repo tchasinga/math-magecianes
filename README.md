@@ -59,7 +59,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 ```
-N/A
+Coming soon
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,8 +131,6 @@ Coming Soon
 - Twitter: [@twitterhandle](https://twitter.com/home)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tchasinga-jacques-76aba7214/)
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -147,7 +145,7 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the Branch (`git push origin SetupMath`)
 5. Open a Pull Request
 
-Feel free to check the [issues page](../../issues/).
+Your ideas are welcom and just feel free [just click](https://github.com/tchasinga/math-magecianes/issues/2).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,6 +162,7 @@ If you like this project rate me star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for accelerating my growth
+And help me to get more than skills 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
