@@ -7,7 +7,7 @@ import PropTypes from 'prop-types';
 
 const Items = ({ number }) => {
   if (
-    number === '\u00F7'
+    number === '/'
     || number === 'x'
     || number === '-'
     || number === '+'
