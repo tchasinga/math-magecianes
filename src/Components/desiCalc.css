@@ -1,7 +1,7 @@
 /* styles.css */
 
 .calculator {
-    width: 300px;
+    width: 500px;
     background-color: #f1f1f1;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -23,7 +23,7 @@
   .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+    gap: 1px;
   }
   
   .calcButton {
@@ -67,4 +67,6 @@
     align-items: center;
     height: 100vh;
   }
-  
+  .zero{
+    grid-column: 1/3;
+  }
