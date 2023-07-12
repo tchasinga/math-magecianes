@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import './desiCalc.css';
 
 function Items({ number }) {
   let className = 'input-btn';
