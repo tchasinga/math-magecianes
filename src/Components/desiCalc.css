@@ -1,69 +1,68 @@
 /* styles.css */
 
 .calculator {
-    width: 500px;
-    background-color: #f1f1f1;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    padding: 20px;
-    display: inline-block;
-    font-family: Arial, sans-serif;
-  }
-  
-  .display {
-    background-color: #fff;
-    color: #333;
-    padding: 10px;
-    text-align: right;
-    font-size: 24px;
-    border-radius: 5px;
-    margin-bottom: 20px;
-  }
-  
-  .buttons {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1px;
-  }
-  
-  .calcButton {
-    background-color: #4caf50;
-    color: #fff;
-    border: none;
-    outline: none;
-    font-size: 18px;
-    padding: 15px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .calcButton:hover {
-    background-color: #45a049;
-  }
-  
-  .calcButton:active {
-    background-color: #3e8e41;
-  }
-  
-  .calcButton.operator {
-    background-color: #f44336;
-  }
-  
-  .calcButton.operator:hover {
-    background-color: #d32f2f;
-  }
-  
-  .calcButton.operator:active {
-    background-color: #b71c1c;
-  }
-  
-  .calcButton.zero {
-    grid-column: span 2;
-  }
-  
-  .calcContainer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
-  }
+  width: 500px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  display: inline-block;
+  font-family: Arial, sans-serif;
+}
+
+.display {
+  background-color: #fff;
+  color: #333;
+  padding: 10px;
+  text-align: right;
+  font-size: 24px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+}
+
+.calcButton {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  padding: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.calcButton:hover {
+  background-color: #45a049;
+}
+
+.calcButton:active {
+  background-color: #3e8e41;
+}
+
+.calcButton.operator {
+  background-color: #f44336;
+}
+
+.calcButton.operator:hover {
+  background-color: #d32f2f;
+}
+
+.calcButton.operator:active {
+  background-color: #b71c1c;
+}
+
+.calcButton.zero {
+  grid-column: span 2;
+}
+
+.calcContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
