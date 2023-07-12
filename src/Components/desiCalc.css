@@ -65,8 +65,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-  }
-  .zero{
-    grid-column: 1/3;
+   
   }
