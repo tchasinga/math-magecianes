@@ -3,8 +3,6 @@
 
   <br/>
 
-  <h3><b>Tchasinga jacques</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  Math Magicians <a name="about-project"></a>
+# 📖  Math Magicians: tests <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -131,6 +129,12 @@ Coming Soon
 - Twitter: [@twitterhandle](https://twitter.com/home)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tchasinga-jacques-76aba7214/)
 
+👤 Samuel Lemma
+
+- GitHub: [samuel_lemma](https://github.com/sam2if)
+- Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
+- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -161,7 +165,7 @@ If you like this project rate me star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for accelerating my growth
+  We would like to thank Microverse for accelerating my growth
 And help me to get more than skills 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
